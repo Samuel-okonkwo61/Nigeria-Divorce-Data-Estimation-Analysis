@@ -59,6 +59,19 @@ Key Insights
 •	Divorce patterns appear to vary significantly across regions.
 •	Urban areas may show higher divorce estimates due to changing socioeconomic dynamics.
 •	Social and economic factors may influence marital stability.
+
+Nigeria Divorce Trend Analysis (2026)
+
+The Nigeria Divorce Data Estimate (2026) reveals a sustained upward trend in marital dissolution across Nigeria. Total estimated divorces reached approximately 83 million over the study period, with the latest national divorce rate at 3.10%. Year-on-year growth stands at 11.41%, while five-year cumulative growth reflects a significant 35% increase. Forecast projections through 2036 indicate a continued rise if structural and socio-economic factors remain unaddressed.
+
+State-level analysis shows higher divorce concentrations in economically active and urbanized regions such as Lagos, Kano, Kaduna, and Rivers. These states demonstrate stronger contributions to national totals, suggesting correlations with urban stress, economic pressure, evolving social norms, and improved access to legal processes. Demographic insights indicate that 62% of divorces are initiated by wives, compared to 38% by husbands. This pattern may reflect increased female financial independence, greater awareness of legal rights, and lower tolerance for domestic violence or marital dissatisfaction.
+
+Financial problems emerge as the leading cause of divorce nationwide, followed by infidelity, communication breakdown, domestic violence, and cultural or family interference. Divorce cases cut across religious and age groups, signaling a broad-based societal shift rather than an isolated demographic issue.
+
+If current trends persist, rising divorce rates may increase single-parent households, child welfare challenges, and socio-economic strain. Strategic interventions including financial literacy programs, accessible marital counseling, strengthened domestic violence enforcement, and targeted state-level mediation initiatives are critical to stabilizing family structures and mitigating long-term social impact.
+
+<img width="753" height="429" alt="DIVORCE 2" src="https://github.com/user-attachments/assets/4799ab2f-404e-46ae-8b3f-575d2fb2bf8d" />
+
 ________________________________________
 Skills Demonstrated
 •	Data cleaning and preparation
