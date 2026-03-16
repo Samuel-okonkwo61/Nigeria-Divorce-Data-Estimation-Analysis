@@ -7,7 +7,7 @@ Data analysis project estimating divorce trends in Nigeria using demographic and
 
 
 
-	Nigeria Divorce Data Estimation Analysis
+	
 Overview
 This project analyzes and estimates divorce patterns in Nigeria using available demographic and social indicators. Due to the limited availability of structured national divorce statistics, this project focuses on data estimation, exploratory analysis, and visualization to understand potential trends and factors influencing divorce rates.
 The goal of the project is to demonstrate data analysis, data modeling, and insight generation skills using real-world social data challenges.
