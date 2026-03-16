@@ -74,7 +74,8 @@ If current trends persist, rising divorce rates may increase single-parent house
 
 <img width="754" height="427" alt="DIVORCE 3" src="https://github.com/user-attachments/assets/c98eaf6a-0666-4c34-ae00-6add116b26a4" />
 
-<img width="836" height="550" alt="DIVORCE 4" src="https://github.com/user-attachments/assets/650a7533-88b9-45df-ab6f-d8e78e303145" />
+<img width="740" height="436" alt="image" src="https://github.com/user-attachments/assets/f79aa54b-ebc0-4218-87dd-9182b793b7e3" />
+
 
 ________________________________________
 Skills Demonstrated
